@@ -39,13 +39,13 @@
 <main style="background-color:#CDEBAE">
 
 
-<div class="container-flex col-4 py-5">
-<div class="card mb-3 col" style="max-width: 540px; background-color:#769953;">
+<div class="container-flex row py-5">
+<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
-    <div class="col-md-4">
+    <div class="col-md-12">
       <img src="img/Collar.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-12">
       <div class="card-body">
         <h5 class="card-title">Collares con con piedras</h5>
         <p class="card-text">Lorem ipsum dolor sit...</p>
@@ -56,12 +56,12 @@
   </div>
 </div>
 
-<div class="card mb-3" style="max-width: 540px; background-color:#769953;">
+<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
-    <div class="col-md-4">
+    <div class="col-md-12">
       <img src="img/Anillos.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-12">
       <div class="card-body">
         <h5 class="card-title">Anillos con piedras</h5>
         <p class="card-text">Lorem ipsum dolor sit...</p>
@@ -72,12 +72,12 @@
   </div>
 </div>
 
-<div class="card mb-3" style="max-width: 540px; background-color:#769953;">
+<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
-    <div class="col-md-4">
+    <div class="col-md-12">
       <img src="img/pulsera.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-12">
       <div class="card-body">
         <h5 class="card-title">Pulseras con piedras</h5>
         <p class="card-text">Lorem ipsum dolor sit...</p>
