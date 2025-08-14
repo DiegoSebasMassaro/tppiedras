@@ -3,47 +3,41 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Crystal Dimensions</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
   </head>
   <body>
-  <header>
-    <div class="fixed-top" >
+
 <nav class="navbar navbar-expand-lg " style="background-color:#f0e68c;">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Tienda Piedras</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <a class="navbar-brand" href="#">Crystal Dimensions</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="piedras.html">Que Hacemos?</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="tienda.html">Tienda</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contacto.html" >Contacto</a>
-        </li>
-      </ul>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+        <a class="nav-link" href="#">Piedras</a>
+        <a class="nav-link" href="#">Compras</a>
+        <a class="nav-link disabled" aria-disabled="true">Contacto</a>
+      </div>
     </div>
   </div>
 </nav>
-</div>
-</header>
+
+
 
 <main style="background-color:#f0e68c;">
-<h1>Hola mundo</h1>
-</main>
+  <div class="">
+<img class="d-block mx-auto"  width="500" src="img/inicio.webp" alt="">
 
+  </div>
+
+</main>
 <!-- footer -->
-<footer>
+<footer class="mx-auto w-100" style="background-color:#f0e68c;">
     <div>
-<p>Todos los derechos reservados - Los Frikis 2025</p>
+<p class="text-center p-4">Todos los derechos reservados - Los Frikis 2025</p>
 </div>
 </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
