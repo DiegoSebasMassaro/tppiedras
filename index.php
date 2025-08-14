@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Crystal Dimensions</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
   </head>
   <body>
@@ -19,7 +19,7 @@
         <a class="nav-link active" aria-current="page" href="#">Inicio</a>
         <a class="nav-link" href="#">Piedras</a>
         <a class="nav-link" href="#">Compras</a>
-        <a class="nav-link disabled" aria-disabled="true"></a>
+        <a class="nav-link disabled" aria-disabled="true">Contacto</a>
       </div>
     </div>
   </div>
@@ -29,15 +29,15 @@
 
 <main style="background-color:#f0e68c;">
   <div class="">
-<img width="500" src="img/inicio.webp" alt="">
+<img class="d-block mx-auto"  width="500" src="img/inicio.webp" alt="">
 
   </div>
 
 </main>
 <!-- footer -->
-<footer>
+<footer class="mx-auto w-100" style="background-color:#f0e68c;">
     <div>
-<p>Todos los derechos reservados - Los Frikis 2025</p>
+<p class="text-center p-4">Todos los derechos reservados - Los Frikis 2025</p>
 </div>
 </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
