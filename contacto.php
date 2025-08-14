@@ -15,7 +15,7 @@
   <!-- HEADER!!! -->
 
   
-  <header>
+<header>
     <div class="fixed-top" >
       <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid" style="background-color: #769953">
@@ -29,7 +29,7 @@
                 <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="piedras.php">Que Hacemos?</a>
+                <a class="nav-link" href="piedras.php">Piedras</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="tienda.php">Tienda</a>
@@ -43,7 +43,6 @@
       </nav>
     </div>
   </header>
-
 
   <div style="background-color:#CDEBAE">
 
@@ -80,12 +79,11 @@
   </div>
 
   <!-- footer -->
- <footer>
+   <footer>
     <div style="background-color: #769953">
       <p>Todos los derechos reservados - Los Frikis 2025</p>
     </div>
   </footer>
-
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
 </body>

@@ -22,7 +22,7 @@
                 <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="piedras.php">Que Hacemos?</a>
+                <a class="nav-link" href="piedras.php">Piedras</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="tienda.php">Tienda</a>
@@ -37,7 +37,6 @@
     </div>
   </header>
 
-
 <main style="background-color:#f0e68c;">
   <div class="">
 <img class="d-block mx-auto"  width="500" src="img/inicio.webp" alt="">
@@ -46,11 +45,11 @@
 
 </main>
 <!-- footer -->
-<footer class="mx-auto w-100" style="background-color:#f0e68c;">
-    <div>
-<p class="text-center p-4">Todos los derechos reservados - Los Frikis 2025</p>
-</div>
-</footer>
+  <footer>
+    <div style="background-color: #769953">
+      <p>Todos los derechos reservados - Los Frikis 2025</p>
+    </div>
+  </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
   </body>
 </html>

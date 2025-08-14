@@ -9,34 +9,34 @@
 </head>
 <body style="background-color:#CDEBAE">
 <!-- navBar -->
- <header>
-    <div class="fixed-top">
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid" style="background-color:#769953">
-    <a class="navbar-brand" href="#">Tienda Piedras</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="piedras.html">Que Hacemos?</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="tienda.html">Tienda</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contacto.html" >Contacto</a>
-        </li>
-      </ul>
+<header>
+    <div class="fixed-top" >
+      <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+        <div class="container-fluid" style="background-color: #769953">
+          <a class="navbar-brand" href="#">Tienda Piedras</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="piedras.php">Piedras</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="tienda.php">Tienda</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contacto.php">Contacto</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </div>
-  </div>
-</nav>
-</div>
-</header>
+  </header>
 
     <p>Las piedras energéticas son minerales a los que muchas culturas y corrientes espirituales les atribuyen propiedades para influir en el bienestar físico, mental y emocional.
     No hay evidencia científica sólida que respalde estos efectos, pero en cristaloterapia y otras prácticas holísticas se usan como herramientas de armonización y meditación.</p>
@@ -69,11 +69,11 @@ color de fondo:
 Color de letras: negro (standard)
 Color de header y footer: #769953 -->
 <!-- footer -->
-<footer>
-    <div>
-<p>Todos los derechos reservados - Los Frikis 2025</p>
-</div>
-</footer>
+  <footer>
+    <div style="background-color: #769953">
+      <p>Todos los derechos reservados - Los Frikis 2025</p>
+    </div>
+  </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
  
 </body>
