@@ -8,8 +8,8 @@
   </head>
   <body>
   <header>
-    <div class="fixed-top">
-<nav class="navbar navbar-expand-lg bg-body-tertiary ">
+    <div class="fixed-top" >
+<nav class="navbar navbar-expand-lg " style="background-color:#f0e68c;">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Tienda Piedras</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,8 +36,9 @@
 </div>
 </header>
 
+<main style="background-color:#f0e68c;">
 <h1>Hola mundo</h1>
-
+</main>
 
 <!-- footer -->
 <footer>

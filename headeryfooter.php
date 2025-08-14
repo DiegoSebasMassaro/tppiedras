@@ -29,8 +29,10 @@
 </header>
 
 
-
-
+<!-- style="background-color:#CDEBAE;"
+color de fondo:
+Color de letras: negro (standard)
+Color de header y footer: #769953 -->
 <!-- footer -->
 <footer>
     <div>
