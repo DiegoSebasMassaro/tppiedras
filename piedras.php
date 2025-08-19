@@ -42,7 +42,10 @@
     No hay evidencia científica sólida que respalde estos efectos, pero en cristaloterapia y otras prácticas holísticas se usan como herramientas de armonización y meditación.</p>
 
 <h1 class="text-center">Beneficios y usos que se les atribuyen</h1>
-<img src="img/piedras.jpg" alt="" width="300px">
+
+<img src="img/piedras.jpg" alt="" width="500px" align="right">
+
+
 <h4>Equilibrio energético</h4>
 <p>Se cree que ayudan a armonizar los chakras y el flujo de energía en el cuerpo.</p>
 
