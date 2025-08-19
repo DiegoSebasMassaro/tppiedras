@@ -43,7 +43,7 @@
 
 <h1 class="text-center">Beneficios y usos que se les atribuyen</h1>
 
-<img src="img/piedras.jpg" alt="" width="500px" align="right">
+<img src="img/columna.webp" alt="" width="400px" align="right">
 
 
 <h4>Equilibrio energético</h4>

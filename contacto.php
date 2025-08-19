@@ -14,9 +14,9 @@
 
   <!-- HEADER!!! -->
 
-  
-<header>
-    <div class="fixed-top" >
+
+  <header>
+    <div class="fixed-top">
       <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid" style="background-color: #769953">
           <a class="navbar-brand" href="#">Crystal Dimensions</a>
@@ -46,31 +46,71 @@
 
   <div style="background-color:#CDEBAE">
 
-    <h1>Somos nosotros, y te escuchamos</h1>
-    <p text-center>un poquito de texto para presentar la tienda</p>
+  <br>
+    <h1 class="pt-5 text-center ">Abrimos en Mayo del 2022!!!</h1>
+  
+    
+
+    <div class="container text-center py-5">
+      <div class="row">
+        <div class="col">
+          <div class="">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.9987470698456!2d-58.45466872521421!3d-34.578898256186186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5e7e7aa0259%3A0x353700eca45f80de!2sCentro%20de%20Formaci%C3%B3n%20Profesional%20(C.F.P.)%20N%C2%B0%2020%20%22Convenio%20Asociaci%C3%B3n%20Mutual%20de%20los%20Colegiales%22!5e0!3m2!1ses-419!2sar!4v1755628594682!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+
 
     <div class="container text-center">
       <div class="row">
         <div class="col">
-          <h2>Diego</h2>
+          
+          <div class="card" style="width: 12rem;">
+            <img src="img/piedras caric3.jpg " class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Diego</h5>
+              
+              
+            </div>
+          </div>
 
         </div>
         <div class="col">
-          <h2>Odi</h2>
-        </div>
-        <div class="col">
-          <h2>Gonza</h2>
-          <div class="card" style="width: 18rem;">
-            <img src="tppiedras/img/caricaturas-2.jpg " class="card-img-top" alt="...">
+          
+          <div class="card" style="width: 12rem;">
+            <img src="img/piedras caric2.jpg " class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">Odi</h5>
+              
+             
             </div>
           </div>
         </div>
         <div class="col">
-          <h2>Ruan</h2>
+          
+          <div class="card" style="width: 12rem;">
+            <img src="img/caricaturas-2.jpg " class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Gonza</h5>
+             
+             
+            </div>
+          </div>
+
+        </div>
+        <div class="col">
+   
+          <div class="card" style="width: 12rem;">
+            <img src="img/piedras caric1.jpg " class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Ruan</h5>
+              
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -79,7 +119,7 @@
   </div>
 
   <!-- footer -->
-   <footer>
+  <footer>
     <div style="background-color: #769953">
       <p>Todos los derechos reservados - Los Frikis 2025</p>
     </div>
