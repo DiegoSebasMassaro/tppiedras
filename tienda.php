@@ -11,7 +11,7 @@
     <div class="fixed-top" >
       <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid" style="background-color: #769953">
-          <a class="navbar-brand" href="#">Tienda Piedras</a>
+          <a class="navbar-brand" href="#">Crystal Dimensions</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -36,19 +36,19 @@
     </div>
   </header>
 
-<main style="background-color:#CDEBAE">
+<main class="pt-5" style="background-color:#CDEBAE">
 
 
-<div class="container-flex row py-5">
-<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
+<div class="container-flex row py-5  ">
+<div class="card mb-4 mx-3 col pt-5" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
     <div class="col-md-12">
-      <img src="img/Collar.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
+      <img src="img/i mg3.jpg" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
     <div class="col-md-12">
       <div class="card-body">
         <h5 class="card-title">Collares con con piedras</h5>
-        <p class="card-text">Lorem ipsum dolor sit...</p>
+        <p class="card-text">Armonia, equilibrio, fuerza, sanacion</p>
         <h2 style="color:#FF2E05">Desde $6000</h2>
         <a href="contacto.php" class="btn btn-danger">Comprar</a>
       </div>
@@ -56,15 +56,15 @@
   </div>
 </div>
 
-<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
+<div class="card mb-4 mx-3 col pt-5" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
     <div class="col-md-12">
-      <img src="img/Anillos.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
+      <img src="img/5.jpg" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Anillos con piedras</h5>
-        <p class="card-text">Lorem ipsum dolor sit...</p>
+        <h5 class="card-title">Pendientes con piedras</h5>
+        <p class="card-text">Proteccion, intuision, confianza, conexion, guia.</p>
         <h2 style="color:#FF2E05">Desde $2500</h2>
         <a href="contacto.php" class="btn btn-danger">Comprar</a>
       </div>
@@ -72,15 +72,15 @@
   </div>
 </div>
 
-<div class="card mb-4 mx-3 col" style="max-width: 540px; background-color:#769953;">
+<div class="card mb-4 mx-3 col pt-5" style="max-width: 540px; background-color:#769953;">
   <div class="row g-0">
     <div class="col-md-12">
-      <img src="img/pulsera.webp" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
+      <img src="img/4.jpg" class="img-fluid rounded-start" alt="Foto de accesorios con piedras energeticas">
     </div>
     <div class="col-md-12">
       <div class="card-body">
         <h5 class="card-title">Pulseras con piedras</h5>
-        <p class="card-text">Lorem ipsum dolor sit...</p>
+        <p class="card-text">Claridad, vitalidad, creatividad, expresion, empoderamiento.</p>
         <h2 style="color:#FF2E05">Desde $3500</h2>
         <a href="contacto.php" class="btn btn-danger">Comprar</a>
       </div>
@@ -89,7 +89,14 @@
 </div>
 </div>
 
-  <footer>
+  
+
+
+
+
+</main>
+
+<footer>
     <div style="background-color: #769953">
       <p>Todos los derechos reservados - Los Frikis 2025</p>
     </div>
@@ -98,25 +105,13 @@
 
 
 
-</main>
 
 
 
 
 
 
-
-
-
-
-
-
-<footer style="background-color:#769953;">
-    <div>
-<p>Todos los derechos reservados - Los Frikis 2025</p>
-</div>
-
-</footer>
+ 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
   </body>
 </html>

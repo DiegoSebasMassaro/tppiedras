@@ -12,7 +12,7 @@
     <div class="fixed-top" >
       <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid" style="background-color: #769953">
-          <a class="navbar-brand" href="#">Tienda Piedras</a>
+          <a class="navbar-brand" href="#">Crystal Dimensions</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -37,9 +37,12 @@
     </div>
   </header>
 
-<main style="background-color:#f0e68c;">
+<main style="background-color:#CDEBAE;">
+
+<h1 class="pt-5 text-center">Bienvenidos a Crystal Dimensions</h1>
   <div class="">
 <img class="d-block mx-auto"  width="500" src="img/inicio.webp" alt="">
+<p class="text-center fs-4">Reseña de la imagen: significa el buen trabajo y la dedicacion de todos los trabajadores, con esto  les queremos decir que hay que valorar el buen trabajo de todos, como tambien el esfuerzo nuestro con esta pagina web.</p>
 
   </div>
 

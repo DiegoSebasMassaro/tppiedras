@@ -13,7 +13,7 @@
     <div class="fixed-top" >
       <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid" style="background-color: #769953">
-          <a class="navbar-brand" href="#">Tienda Piedras</a>
+          <a class="navbar-brand" href="#">Crystal Dimensions</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -41,8 +41,8 @@
     <p>Las piedras energéticas son minerales a los que muchas culturas y corrientes espirituales les atribuyen propiedades para influir en el bienestar físico, mental y emocional.
     No hay evidencia científica sólida que respalde estos efectos, pero en cristaloterapia y otras prácticas holísticas se usan como herramientas de armonización y meditación.</p>
 
-<h1>Beneficios y usos que se les atribuyen</h1>
-
+<h1 class="text-center">Beneficios y usos que se les atribuyen</h1>
+<img src="img/piedras.jpg" alt="" width="300px">
 <h4>Equilibrio energético</h4>
 <p>Se cree que ayudan a armonizar los chakras y el flujo de energía en el cuerpo.</p>
 
